@@ -1,4 +1,4 @@
-# VideoHub
+# PLUTO PLAY
 
 A YouTube-inspired video streaming web application built with React and Redux, focusing on performance optimization, scalable state management, and smooth user experience.
 
