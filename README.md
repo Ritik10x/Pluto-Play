@@ -1,5 +1,7 @@
 # PLUTO PLAY
 
+- LIVE -> https://plutoplay.netlify.app/
+
 A YouTube-inspired video streaming web application built with React and Redux, focusing on performance optimization, scalable state management, and smooth user experience.
 
 ## 🎥 Video Streaming Web Application (React + Redux)
