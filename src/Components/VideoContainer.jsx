@@ -23,7 +23,7 @@ const [videos,setVideos]=useState([])
     return(
         
         <div className="flex flex-wrap ">
-           {videos.map((video)=>(
+           {videos?.map((video)=>(
       <Link key={video.id?.videoId || video.id} to={"/watch?v="+video.id}>
         <VideoCard key={video.id} info={video}/></Link>
       ))}
